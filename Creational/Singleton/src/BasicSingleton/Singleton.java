@@ -1,4 +1,4 @@
-package Singleton;
+package BasicSingleton;
 
 public class Singleton {
 	
