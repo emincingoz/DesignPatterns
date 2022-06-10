@@ -10,7 +10,7 @@ public class ThreadSafeLazySingleton {
 	private ThreadSafeLazySingleton() {
 		
 		count++;
-		name = "LazySingleton " + count;
+		name = "ThreadSafeLazySingleton" + count;
 	}
 
 	public static ThreadSafeLazySingleton getInstance() {
