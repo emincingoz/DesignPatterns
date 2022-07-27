@@ -5,3 +5,7 @@ Design Patterns
 
 - Singleton
 - Factory Method
+
+### Behavioral Design Patterns
+
+- Observer
