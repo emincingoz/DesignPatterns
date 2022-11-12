@@ -9,3 +9,7 @@ Design Patterns
 ### Behavioral Design Patterns
 
 - Observer
+
+### Structural Design Patterns
+
+- Proxy
