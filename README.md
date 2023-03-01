@@ -21,7 +21,7 @@ Design pattern implementations are mostly based on ***Akın Kaldıroğlu***'s ex
 - [ ] Decorator  
 - [ ] Facade  
 - [ ] Flyweight  
-- [x] [Proxy](Structural/Proxy/README.md)
+- [x] [Proxy](https://github.com/emincingoz/DesignPatterns/tree/master/Structural/Proxy)
 
 ### Behavioral Design Pattern (Davranışsal Tasarım Modeli)
 
